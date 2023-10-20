@@ -1,0 +1,97 @@
+body{
+    background-color: #e5d2f7;
+    margin: 1%;
+    padding: 1% 5% 1% 5%;
+    font-family: 'Tsukimi Rounded', sans-serif;
+
+}
+.barra{
+    background-image: radial-gradient(circle at 79.88% 114.09%, #ffeaff 0, #ffddff 10%, #ffcffd 20%, #ffc1fb 30%, #f0b2f9 40%, #d8a3f8 50%, #bb96f7 60%, #9a8cf7 70%, #7084f7 80%, #2c7ff7 90%, #007bf6 100%);
+}
+.loreto{
+    font-family: 'Cherry Bomb One', cursive;
+    color: #f9f8fa;
+    font-size: 60px;
+}
+.texto{
+    color: #f9f8fa;
+    font-weight:bold;
+    font-size: 20px;
+}
+main{
+    display: flex;
+    padding: 10px;
+    margin: 50px;
+}
+.presentacion{
+    display: grid;
+    padding: 1%;
+    border-radius: 35px;
+    background-color:#c8c0f8;
+}
+.educacion{
+    padding: 20px;
+    display: flex;
+}
+.ventana{
+    background-color:#ffcffd;
+}
+.imagen{
+ width: 50%;
+}
+.caja{
+  height: 250px;
+  margin: 20px;
+  padding: 5px;
+    background-image: radial-gradient(circle at 79.88% 114.09%, #ffeaff 0, #ffddff 10%, #ffcffd 20%, #ffc1fb 30%, #f0b2f9 40%, #d8a3f8 50%, #bb96f7 60%, #9a8cf7 70%, #7084f7 80%, #2c7ff7 90%, #007bf6 100%);
+
+}
+.h{
+    color: #f9f8fa;
+    font-weight:bold;
+    text-align: center;
+    font-size: 50px;
+}
+.derechos{
+    text-align: center;
+    font-weight: bold;
+}
+h4{
+    font-size: 15px;
+}
+.icono{
+    color: #f9f8fa;
+    font-size: 50px;
+    padding: 8%;
+}
+.iconos{
+justify-content: center;
+}
+.js{
+   width: 30%;
+}
+.carrusel{
+    text-align: center;
+    background-image: radial-gradient(circle at 79.88% 114.09%, #ffeaff 0, #ffddff 10%, #ffcffd 20%, #ffc1fb 30%, #f0b2f9 40%, #d8a3f8 50%, #bb96f7 60%, #9a8cf7 70%, #7084f7 80%, #2c7ff7 90%, #007bf6 100%);
+padding: 50px;
+margin: 10px;
+width: 100%;
+text-align: center;
+}
+.cerfificados{
+   padding: 20px;
+margin: 5px;
+}
+.titulo{
+    width: 49%;
+    padding: 9%;
+    justify-content: center;
+
+}
+.experiencia{
+    width: 100%;
+    margin: 10% 1% 10% 1%;
+}
+.t{
+   justify-content: center;
+}
